@@ -15,10 +15,10 @@ body {
   color: green;
 }
 
-ul, td {
+p, ul, td {
   font-size: 13px;
   line-height: 18px;
-  margin: 33px;
+  margin: 15px;
 }
 
 th {
